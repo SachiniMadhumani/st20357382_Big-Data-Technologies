@@ -16,3 +16,7 @@ Parquet
 Jupyter Notebook
 Matplotlib
 Pandas
+
+
+Processed data is in "data/processed" location
+Output results are in "data/results" location
